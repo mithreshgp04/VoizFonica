@@ -1,0 +1,8 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: registration-service
+eureka:
+  instance:
+    hostname: localhost
